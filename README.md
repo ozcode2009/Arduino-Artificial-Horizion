@@ -2,7 +2,7 @@
  
 Arduino and Java code for an artificial horizon/attitude indicator.
 
-#Running
+# Running
 
 First, load the arduino code onto the arduino board of your choice.
 
